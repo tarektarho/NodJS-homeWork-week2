@@ -1,0 +1,11 @@
+{
+  "name": "week-2 task manager in nodejs",
+  "version": "8.0.1",
+  "description": " week-2 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarek Tarho",
+  "license": "ISC"
+}
